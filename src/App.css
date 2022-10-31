@@ -23,8 +23,13 @@
 
     
 }
+
 #profile{
     text-align: center;
+}
+#twitter{
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 .input_link{
     width: 100%;
